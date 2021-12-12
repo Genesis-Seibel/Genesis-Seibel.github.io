@@ -1,6 +1,6 @@
 ## Welcome to My Portfolio Page
 
-[About Me](about-me.md)
+[About Me](about-me.md){: .btn}
 [Competitions](competitions.md)
 [Blogs and Writeups](blogs.md)
 
