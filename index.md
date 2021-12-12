@@ -1,6 +1,6 @@
 ## Welcome to My Portfolio Page
 
-[About Me](about-me.md){: .btn}
+[About Me](about-me.md){% include button.html url = "about-me.md" %}
 [Competitions](competitions.md)
 [Blogs and Writeups](blogs.md)
 
