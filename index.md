@@ -7,10 +7,15 @@
  - Email
  - Phone Number:
  - LinkedIn:
- - GitHub Profile: 
+ - GitHub Profile:
+
+
 #### Certifications
  - Security +
+
+
 #### Education
+
 #### Experience
  
 ### Publications
