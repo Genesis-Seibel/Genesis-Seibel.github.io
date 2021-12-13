@@ -1,13 +1,15 @@
-
+<html>
+ <header id= "header"> Testing HTML</header>
+ </html>
 ## Welcome to My Portfolio Page
 
 ### About Me
  My name is Genesis Seibel and I am a Cybersecurity Junior at UTSA. 
 #### Contact and Social Media
- - Email
- - Phone Number:
- - LinkedIn:
- - GitHub Profile:
+ - Email: ghseibel1219@gmail.com
+ - Phone Number: 301-395-8767
+ - [LinkedIn]{https://www.linkedin.com/in/gseibel/}
+ -[GitHub Profile]{https://github.com/Genesis-Seibel}
 
 
 #### Certifications
@@ -17,6 +19,7 @@
 #### Education
 
 #### Experience
+#### Skills
  
 ### Publications
 #### Blogs
